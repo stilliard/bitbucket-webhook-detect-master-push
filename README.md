@@ -13,6 +13,11 @@ Currently supports Bitbucket (though could support Github too).
 git clone https://github.com/stilliard/bitbucket-webhook-detect-master-push.git
 ```
 
+Install depenancies with composer
+```
+composer install
+```
+
 Next copy the `.env.example` file to `.env` and fill in the varaibles with who to send to, from & your mailgun settings.
 
 Then setup the apache vhost or nginx server file for this as needed.
