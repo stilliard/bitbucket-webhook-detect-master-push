@@ -1,7 +1,7 @@
 {
     "license" : "MIT",
     "require": {
-        "php" : "^5.5 || ^7.0",
+        "php" : "^5.6 || ^7.0",
         "mtdowling/jmespath.php": "^2.4",
         "omnimail/omnimail": "^0.3.1",
         "vlucas/phpdotenv": "^2.4",
