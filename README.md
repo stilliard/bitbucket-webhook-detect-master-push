@@ -1,5 +1,6 @@
-
 # Bitbucket webhook to check if someone pushed direct to master
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fstilliard%2Fbitbucket-webhook-detect-master-push.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fstilliard%2Fbitbucket-webhook-detect-master-push?ref=badge_shield)
+
 
 This package can email multiple people when any developer pushes to master / production so that you can make sure that code was reviewed & tested:
 
@@ -31,3 +32,7 @@ Once setup, add a bibucket webhook for this & test it works.
 MIT license
 
 Thanks to [Wildfire Internet](https://www.wildfireinternet.co.uk/) for supporting the development of this project.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fstilliard%2Fbitbucket-webhook-detect-master-push.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fstilliard%2Fbitbucket-webhook-detect-master-push?ref=badge_large)
